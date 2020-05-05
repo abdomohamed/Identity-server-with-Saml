@@ -7,7 +7,7 @@
   <ItemGroup>
     <PackageReference Include="AspNet.Security.OAuth.Yammer" Version="2.0.0-rc2-final" />
     <PackageReference Include="IdentityServer4" Version="2.1.1" />
-    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.5" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.9" />
     <PackageReference Include="Sustainsys.Saml2.AspNetCore2" Version="2.0.0-preview01" />
   </ItemGroup>
 
